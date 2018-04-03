@@ -1,20 +1,20 @@
 <?xml version="1.0" ?>
 <goods>
 	<good>
-		<name>Apple iPhone 6 16GB 4G LTE Factory Unlocked Smartphone Grey Gold Perfect</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$199.99</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
 		<name>Apple iPhone 6/6S/Plus Gold/Silver/Grey/Rose Unlocked 16GB 64GB 128GB Smartphone</name>
 		<shops>
 			<shop>
 				<name>ebay.com</name>
 				<price>$204.51 to $446.12</price>
+			</shop>
+		</shops>
+	</good>
+	<good>
+		<name>Apple iPhone 6 16GB 4G LTE Factory Unlocked Smartphone Grey Gold Perfect</name>
+		<shops>
+			<shop>
+				<name>ebay.com</name>
+				<price>$199.99</price>
 			</shop>
 		</shops>
 	</good>
@@ -163,6 +163,15 @@
 		</shops>
 	</good>
 	<good>
+		<name>Apple iPhone 6S Plus, 6S 128GB - 64GB 32GB 16GB - FACTORY UNLOCKED- IOS - 4G LTE</name>
+		<shops>
+			<shop>
+				<name>ebay.com</name>
+				<price>$184.80 to $372.90</price>
+			</shop>
+		</shops>
+	</good>
+	<good>
 		<name>Apple iPhone SE 32gb Space Grey iOS Smartphone No Contract lte/4g WOW!</name>
 		<shops>
 			<shop>
@@ -212,11 +221,11 @@
 		</shops>
 	</good>
 	<good>
-		<name>iPhone 6S Plus 16gb/32gb/64gb/128gb Unlocked Smartphone</name>
+		<name>Apple iPhone 7 32gb Matte Black/Black-Refurbished-Guaranteed</name>
 		<shops>
 			<shop>
 				<name>ebay.com</name>
-				<price>$271.22 to $298.34</price>
+				<price>$391.07</price>
 			</shop>
 		</shops>
 	</good>
@@ -226,6 +235,15 @@
 			<shop>
 				<name>ebay.com</name>
 				<price>$189.65 to $295.04</price>
+			</shop>
+		</shops>
+	</good>
+	<good>
+		<name>iPhone 6S Plus 16gb/32gb/64gb/128gb Unlocked Smartphone</name>
+		<shops>
+			<shop>
+				<name>ebay.com</name>
+				<price>$271.22 to $298.34</price>
 			</shop>
 		</shops>
 	</good>
@@ -302,11 +320,11 @@
 		</shops>
 	</good>
 	<good>
-		<name>Apple iPhone 6S Plus, 6S 128GB - 64GB 32GB 16GB - FACTORY UNLOCKED- IOS - 4G LTE</name>
+		<name>IPhone 5 Refurbished 16gb Grade B White Silver Original Apple regenerated 16</name>
 		<shops>
 			<shop>
 				<name>ebay.com</name>
-				<price>$184.80 to $372.90</price>
+				<price>$123.08</price>
 			</shop>
 		</shops>
 	</good>
@@ -325,15 +343,6 @@
 			<shop>
 				<name>ebay.com</name>
 				<price>$123.08</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 7 32gb Matte Black/Black-Refurbished-Guaranteed</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$391.07</price>
 			</shop>
 		</shops>
 	</good>

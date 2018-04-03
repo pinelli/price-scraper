@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b050afb5-1880-4f91-980f-3b5499fa3b6c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PriceParser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PriceParser.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/price_parser/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/price_parser/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prices.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prices.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/references.xml" beforeDir="false" afterPath="$PROJECT_DIR$/references.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/price_parser/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/price_parser/parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prices.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/references.xml" beforeDir="false" afterPath="$PROJECT_DIR$/price_parser/references.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shops.xml" beforeDir="false" afterPath="$PROJECT_DIR$/price_parser/shops.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xml_r_w.py" beforeDir="false" afterPath="$PROJECT_DIR$/price_parser/xml_r_w.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/price_parser/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-314">
-              <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+            <state relative-caret-position="370">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -35,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -124,8 +115,8 @@
         <option value="$PROJECT_DIR$/src/references.xml" />
         <option value="$PROJECT_DIR$/test/test.py" />
         <option value="$PROJECT_DIR$/price_parser/references.xml" />
-        <option value="$PROJECT_DIR$/price_parser/main.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/price_parser/main.py" />
       </list>
     </option>
   </component>
@@ -293,9 +284,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_py - 2018.04.03 at 19h 42m 21s.xml">
-      <configuration name="Unittests in test.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test_py - 2018.04.03 at 19h 47m 59s.xml">
       <configuration name="Unittests in test.py" configurationId="tests" />
     </history-entry>
@@ -321,6 +309,9 @@
       <configuration name="Unittests in test.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_test_py - 2018.04.03 at 19h 57m 30s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2018.04.03 at 20h 09m 09s.xml">
       <configuration name="Unittests in test.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -668,22 +659,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/price_parser/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-314">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/price_parser/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
