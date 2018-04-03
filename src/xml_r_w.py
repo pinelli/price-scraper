@@ -1,8 +1,9 @@
 from xml.dom import minidom
 from xml.dom.minidom import Document
 
+
 def read_sites(shops_file_path):
-    """parse an xml file by name"""
+    """parses an xml file by name"""
 
     mydoc = minidom.parse(shops_file_path)
     references = mydoc.getElementsByTagName('ref')
@@ -24,6 +25,8 @@ def write_result(goods):
         name_text = doc.createTextNode(good_key)
         name.appendChild(name_text)
 
+        shops = doc.createElement('shops')
+
         for item in goods.get(good_key):
             shop_name_text = doc.createTextNode(item[0])
             shop_name = doc.createElement("name")
@@ -37,23 +40,15 @@ def write_result(goods):
             shop.appendChild(shop_name)
             shop.appendChild(shop_price)
 
+            shops.appendChild(shop)
+
         good = doc.createElement('good')
         good.appendChild(name)
-        good.appendChild(shop)
+        good.appendChild(shops)
 
         root.appendChild(good)
 
         file = open('prices.xml', 'w')
         file.write(doc.toprettyxml(indent='\t'))
-
-    # for i in range(1, 3):
-    #     main = doc.createElement('item')
-    #     main.attributes['class'] = 'memory'
-    #     root.appendChild(main)
-    #     for j in range(1, 3):
-    #         p = doc.createElement('p')
-    #         text = doc.createTextNode('DIMM Size' + str(j))
-    #         p.appendChild(text)
-    #         main.appendChild(p)
 
 

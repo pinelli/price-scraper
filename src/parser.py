@@ -15,6 +15,8 @@ def parse_site(site_ref):
     soup = BeautifulSoup(data, "html.parser")
     if site_ref[0] == 'ebay':
         return parse_ebay(soup)
+    if site_ref[0] == 'foxtrot':
+        return parse_foxtrot(soup)
     else:
         return []
 
@@ -31,3 +33,11 @@ def parse_ebay(soup):
 
     return items
 
+
+def parse_foxtrot(soup):
+    items = []
+    for item in soup.findAll("div", {"class": "product-item "}):
+        title = item["data-title"]
+        price = item["data-price"]
+        items.append([title, 'foxtrot.com.ua', price.strip()])
+    return items

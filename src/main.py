@@ -20,6 +20,7 @@ def main():
 
 
 def leven_dist(str1, str2):
+    return False
     wordset = Levenshtein_search.populate_wordset(-1, [str1])
     result = Levenshtein_search.lookup(wordset, str2, LEV_DIST)
     return not not result
@@ -46,5 +47,6 @@ def arrange_goods(items_l):
                 shop_price_entry.append([items_l[i][1], items_l[i][2]])
 
     return goods
+
 
 main()
