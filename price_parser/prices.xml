@@ -5,7 +5,24 @@
 		<shops>
 			<shop>
 				<name>ebay.com</name>
+				<price>$33.50</price>
+			</shop>
+			<shop>
+				<name>ebay.com</name>
 				<price>$12.31 to $13.49</price>
+			</shop>
+		</shops>
+	</good>
+	<good>
+		<name>Original HIFI Marshall Major Mic Remote Headphones Noise Cancelling Deep Bass</name>
+		<shops>
+			<shop>
+				<name>ebay.com</name>
+				<price>$26.67 to $30.35</price>
+			</shop>
+			<shop>
+				<name>ebay.com</name>
+				<price>$25.64 to $28.49</price>
 			</shop>
 		</shops>
 	</good>
@@ -15,15 +32,6 @@
 			<shop>
 				<name>ebay.com</name>
 				<price>$1.09 to $1.99</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Original HIFI Marshall Major Mic Remote Headphones Noise Cancelling Deep Bass</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$25.64 to $28.49</price>
 			</shop>
 		</shops>
 	</good>
@@ -55,6 +63,15 @@
 		</shops>
 	</good>
 	<good>
+		<name>JVC Gumy Gummy HA-F150 In-Ear Canal Earbuds Headphones Earphones Bass Boost</name>
+		<shops>
+			<shop>
+				<name>ebay.com</name>
+				<price>$0.99 to $3.19</price>
+			</shop>
+		</shops>
+	</good>
+	<good>
 		<name>Bluetooth 4.1 Stereo Wireless Headphone Microphone Portable Sport Headset P47</name>
 		<shops>
 			<shop>
@@ -73,17 +90,12 @@
 		</shops>
 	</good>
 	<good>
-		<name>JVC Gumy Gummy HA-F150 In-Ear Canal Earbuds Headphones Earphones Bass Boost</name>
+		<name>Wireless Bluetooth In-Ear Earbud Stereo Mic Air pod HBQ i7 Twins Headphones Min</name>
 		<shops>
 			<shop>
 				<name>ebay.com</name>
-				<price>$0.99 to $3.19</price>
+				<price>$11.80 to $12.88</price>
 			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Wireless Bluetooth In-Ear Earbud Stereo Mic Air pod HBQ i7 Twins Headphones Min</name>
-		<shops>
 			<shop>
 				<name>ebay.com</name>
 				<price>$9.88</price>
@@ -109,11 +121,20 @@
 		</shops>
 	</good>
 	<good>
+		<name>Wireless Bluetooth Earphone Headphone Headset Sports Stereo For iPhone Samsung</name>
+		<shops>
+			<shop>
+				<name>ebay.com</name>
+				<price>$1.58 to $3.99</price>
+			</shop>
+		</shops>
+	</good>
+	<good>
 		<name>2018 Marshall Major II Bluetooth Remote MIC Headphones Noise Deep Bass Headset</name>
 		<shops>
 			<shop>
 				<name>ebay.com</name>
-				<price>$28.49 to $54.13</price>
+				<price>$29.99 to $56.98</price>
 			</shop>
 		</shops>
 	</good>
@@ -123,15 +144,6 @@
 			<shop>
 				<name>ebay.com</name>
 				<price>$3.75 to $14.49</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Wireless Bluetooth Earphone Headphone Headset Sports Stereo For iPhone Samsung</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$1.58 to $3.99</price>
 			</shop>
 		</shops>
 	</good>
@@ -154,6 +166,19 @@
 		</shops>
 	</good>
 	<good>
+		<name>Sweatproof Wireless Bluetooth Headset Stereo Headphones Sport Running Earphones</name>
+		<shops>
+			<shop>
+				<name>ebay.com</name>
+				<price>$6.99</price>
+			</shop>
+			<shop>
+				<name>ebay.com</name>
+				<price>$12.99 to $13.79</price>
+			</shop>
+		</shops>
+	</good>
+	<good>
 		<name>Stereo Earphone Earbuds Bass Headphone Sports Headset With Mic For Samsung</name>
 		<shops>
 			<shop>
@@ -163,29 +188,11 @@
 		</shops>
 	</good>
 	<good>
-		<name>Sweatproof Wireless Bluetooth Headset Stereo Headphones Sport Running Earphones</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$12.99 to $13.79</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
 		<name>Marshall Major2 Bluetooth Headphones Generation Headset Remote Mic HIFI headphon</name>
 		<shops>
 			<shop>
 				<name>ebay.com</name>
 				<price>$57.95</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Bluedio Turbine Hurricane H Bluetooth 4.1 Wireless Stereo Headphones Headset J&amp;S</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$3.30 to $13.66</price>
 			</shop>
 		</shops>
 	</good>
@@ -208,20 +215,20 @@
 		</shops>
 	</good>
 	<good>
-		<name>Mini Wireless Bluetooth 4.0 Stereo In-Ear Headset Earphone For Samsung iphone .</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$0.99 to $2.76</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
 		<name>Wireless Bluetooth Foldable Headset Stereo Headphone Earphone for iPhone Samsung</name>
 		<shops>
 			<shop>
 				<name>ebay.com</name>
 				<price>$3.99 to $14.99</price>
+			</shop>
+		</shops>
+	</good>
+	<good>
+		<name>Mini Wireless Bluetooth 4.0 Stereo In-Ear Headset Earphone For Samsung iphone .</name>
+		<shops>
+			<shop>
+				<name>ebay.com</name>
+				<price>$0.99 to $2.76</price>
 			</shop>
 		</shops>
 	</good>
@@ -253,11 +260,11 @@
 		</shops>
 	</good>
 	<good>
-		<name>Wireless Running Sports Bluetooth Headphones Headset Stereo Earphone</name>
+		<name>P47 Wireless Bluetooth Sports Headphones Microphone Portable Stereo FM Headset</name>
 		<shops>
 			<shop>
 				<name>ebay.com</name>
-				<price>$11.99</price>
+				<price>$3.53 to $9.15</price>
 			</shop>
 		</shops>
 	</good>
@@ -275,7 +282,7 @@
 		<shops>
 			<shop>
 				<name>ebay.com</name>
-				<price>$34.18 to $36.08</price>
+				<price>$35.98 to $37.98</price>
 			</shop>
 		</shops>
 	</good>
@@ -289,15 +296,6 @@
 		</shops>
 	</good>
 	<good>
-		<name>Brown Marshall Major Headphone Bluetooth 2 Wireless Remote Mic HIFI Headset NEW</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$53.99</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
 		<name>Waterproof Wireless Bluetooth Earphones Metal Magnetic Headphones Bass Headset</name>
 		<shops>
 			<shop>
@@ -307,20 +305,11 @@
 		</shops>
 	</good>
 	<good>
-		<name>JBL T290 Aluminum In Ear Headphone Earbuds Tangle Free Shipping</name>
+		<name>Brown Marshall Major Headphone Bluetooth 2 Wireless Remote Mic HIFI Headset NEW</name>
 		<shops>
 			<shop>
 				<name>ebay.com</name>
-				<price>$14.90 to $22.99</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Sony MDR-EX10LP Earbud Earphones Headphones or samsung earphones</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$4.50 to $4.99</price>
+				<price>$53.99</price>
 			</shop>
 		</shops>
 	</good>
@@ -334,20 +323,29 @@
 		</shops>
 	</good>
 	<good>
+		<name>Sony MDR-EX10LP Earbud Earphones Headphones or samsung earphones</name>
+		<shops>
+			<shop>
+				<name>ebay.com</name>
+				<price>$4.50 to $4.99</price>
+			</shop>
+		</shops>
+	</good>
+	<good>
+		<name>JBL T290 Aluminum In Ear Headphone Earbuds Tangle Free Shipping</name>
+		<shops>
+			<shop>
+				<name>ebay.com</name>
+				<price>$14.90 to $22.99</price>
+			</shop>
+		</shops>
+	</good>
+	<good>
 		<name>Foldable Wireless Stereo Bluetooth Headset Headphones +Mic For iPhone Samsung PC</name>
 		<shops>
 			<shop>
 				<name>ebay.com</name>
 				<price>$15.44</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>3.5MM Hand Free Stereo HIFI Bass Headphones Headsets In-Ear Earphones Earbuds</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$1.61</price>
 			</shop>
 		</shops>
 	</good>
@@ -370,6 +368,24 @@
 		</shops>
 	</good>
 	<good>
+		<name>JVC Gumy Gummy Plus HA-FX5 In-Ear Canal Earbuds  All Colors Headphones Earphones</name>
+		<shops>
+			<shop>
+				<name>ebay.com</name>
+				<price>$1.56 to $3.89</price>
+			</shop>
+		</shops>
+	</good>
+	<good>
+		<name>Wireless Running Sports Bluetooth Headphones Headset Stereo Earphone</name>
+		<shops>
+			<shop>
+				<name>ebay.com</name>
+				<price>$11.99</price>
+			</shop>
+		</shops>
+	</good>
+	<good>
 		<name>For iPhone Samsung 3.5mm Piston In-Ear Stereo Earbuds Earphone Headset Headphone</name>
 		<shops>
 			<shop>
@@ -388,6 +404,15 @@
 		</shops>
 	</good>
 	<good>
+		<name>3.5MM Hand Free Stereo HIFI Bass Headphones Headsets In-Ear Earphones Earbuds</name>
+		<shops>
+			<shop>
+				<name>ebay.com</name>
+				<price>$1.61</price>
+			</shop>
+		</shops>
+	</good>
+	<good>
 		<name>Hot FOR Marshall Major 2 Headphones Generation Headset Remote Mic HIFI headphon</name>
 		<shops>
 			<shop>
@@ -397,326 +422,11 @@
 		</shops>
 	</good>
 	<good>
-		<name>P47 Wireless Bluetooth Sports Headphones Microphone Portable Stereo FM Headset</name>
+		<name>Sony MDR- RF995RK Wireless Headphones - BLACK</name>
 		<shops>
 			<shop>
 				<name>ebay.com</name>
-				<price>$3.53 to $9.15</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 6 16GB 4G LTE Factory Unlocked Smartphone Grey Gold Perfect</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$199.99</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 6/6S/Plus Gold/Silver/Grey/Rose Unlocked 16GB 64GB 128GB Smartphone</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$204.51 to $446.12</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>iPhone 6s Apple 16GB 64GB 128GB No Fingerprint Unlocked  Smartphone</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$213.98 to $249.98</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 4S 16GB Factory Unlocked Smartphone Black/ White Perfect Condition</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$39.99 to $49.99</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 7 - 32GB 128GB 256GB - Jet/Black/Silver/Gold/Rose/Red - UNLOCKED</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$372.33 to $562.05</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 7 128gb Black + Accessories + Shipping + Warranty 12 months</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$435.39</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 6S - 16GB 32GB 64GB 128GB -Gold/Silver/Grey/Rose- UNLOCKED/SIMFREE</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$196.67 to $365.31</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 7 Plus Rose Gold Black Silver 32gb 128gb like new a killer price!</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$615.41 to $676.96</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 6 64GB GSM 4G LTE (Factory Unlocked) Smartphone - SRB</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$149.99</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 8 64gb Space Gray 24 months guarantee Italy</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$849.34</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 7 GSM Unlocked Smartphone 32gb/128gb/256gb</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$317.71 to $410.70</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 6S Plus - 16GB 32GB 64GB 128GB - Gold/Silver/Grey/Rose - UNLOCKED</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$316.12</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 7 128gb Silver + Accessories + shipping + 12 months guarantee a/b</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$432.06</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>IPhone 7 Plus Refurbished 32gb Grade B Matte Black Original Apple regenerated</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$491.15</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone SE 16GB 32GB 64GB 128GB - Gold/Silver/Grey/Rose (UNLOCKED/SIMFREE)</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$147.49 to $372.33</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>iPhone 6S 16gb/32gb/64gb Unlocked Smartphone in Gold, Silver, Gray or Rose</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$209.22 to $309.96</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 6 / 6 Plus / 6S / 6S Plus Factory Unlocked/ AT&amp;T/ Verizon/ T-Mobile</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$217.97 to $353.80</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 6 16gb Grey Grade A + Accessories + Shipping + Warranty 12 months</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$227.10</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 8 64gb Silver guarantee Italy 24 months</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$849.34</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 6S Plus, 6S 128GB - 64GB 32GB 16GB - FACTORY UNLOCKED- IOS - 4G LTE</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$184.80 to $372.90</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone SE 32gb Space Grey iOS Smartphone No Contract lte/4g WOW!</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$319.92</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>IPhone 5s Refurbished 16gb Grade B Oro Gold Original Apple regenerated 16 GB</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$146.47</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>iPhone 7 Plus GSM Unlocked Smartphone 128gb/256gb</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$457.20 to $573.44</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>iPhone 6S Plus 16gb/32gb/64gb/128gb Unlocked Smartphone</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$271.22 to $298.34</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 6s 16gb, 32gb, 64gb, 128gb Space Grey, Silver, Gold, Rosegold-WOW</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$258.38 to $418.40</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 6 - 16GB 64GB 128GB - Gold/Silver/Space Grey - (UNLOCKED/SIM FREE)</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$189.65 to $295.04</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 6s - 64GB Space Gray (Factory Unlocked) (GSM) Worldwide Smartphone</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$217.00</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 7 Plus, 7,  256GB 128GB 32GB Factory Unlocked 4G LTE iOS Smartphone</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$379.50 to $575.00</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 6s 64gb Silver +++ Accessories + Shipping + Warranty 12 months</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$336.79</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 8 Plus 64gb Silver guarantee Italy 24 months</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$984.75</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>IPhone 5 Refurbished 16gb Grade B White Silver Original Apple regenerated 16</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$123.08</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>IPhone 5 Refurbished 16gb Grade B Black Space Grey Original Apple regenerated</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$123.08</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 4S Factory Unlocked Smartphone Black/ White Perfect Condition</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$63.22 to $70.25</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>IPhone 7 32gb A + + Matte Black Matt Black Silver White Gold Pink Refurbished</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$466.53</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Apple iPhone 7 32gb Matte Black/Black-Refurbished-Guaranteed</name>
-		<shops>
-			<shop>
-				<name>ebay.com</name>
-				<price>$391.07</price>
+				<price>$30.99</price>
 			</shop>
 		</shops>
 	</good>
@@ -743,7 +453,7 @@
 		<shops>
 			<shop>
 				<name>foxtrot.com.ua</name>
-				<price>26386</price>
+				<price>25999</price>
 			</shop>
 		</shops>
 	</good>
@@ -808,6 +518,10 @@
 				<name>foxtrot.com.ua</name>
 				<price>13999</price>
 			</shop>
+			<shop>
+				<name>foxtrot.com.ua</name>
+				<price>9899</price>
+			</shop>
 		</shops>
 	</good>
 	<good>
@@ -825,15 +539,6 @@
 			<shop>
 				<name>foxtrot.com.ua</name>
 				<price>8699</price>
-			</shop>
-		</shops>
-	</good>
-	<good>
-		<name>Ноутбук LENOVO IdeaPad 320-15ISK (80XH00M7RA)</name>
-		<shops>
-			<shop>
-				<name>foxtrot.com.ua</name>
-				<price>9899</price>
 			</shop>
 		</shops>
 	</good>
